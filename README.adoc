@@ -13,7 +13,7 @@ image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg[PRs Welcome]
 
 Official website and landing page for *OpenTune*, an advanced YouTube Music client for Android featuring Material Design 3.
 
-🚀 **Explore the website at: https://opentune.netlify.app[opentune.netlify.app]**
+🚀 **Explore the website at: https://opentune-nextjs.netlify.app[opentune-nextjs.netlify.app]**
 
 ---
 
