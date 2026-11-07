@@ -1,0 +1,31 @@
+Copyright (C) 2026 Rajnish Kumar
+
+COPYRIGHT AND ATTRIBUTION
+
+1. Current project implementation
+
+The current Next.js implementation and project-specific source code in this
+repository were created by Rajnish Kumar, except for third-party components
+and materials identified by their respective notices.
+
+2. Original design
+
+The visual design and theme of this project are based on the original design
+by Arturo Cervantes. This project acknowledges that design attribution and
+does not claim ownership of Arturo Cervantes' original work.
+
+3. Historical HTML source
+
+An earlier commit in this repository's Git history included HTML source
+associated with the original design. That HTML source was later removed from
+the current source tree. This notice does not claim or transfer copyright in
+any original material authored by Arturo Cervantes. Any such material remains
+subject to its original copyright notices and the license or permission under
+which it was provided.
+
+4. License
+
+The project code authored by Rajnish Kumar is distributed under the GNU
+General Public License, version 3.0, as provided in the LICENSE file. This
+notice does not relicense third-party material or override the terms that
+apply to it.
