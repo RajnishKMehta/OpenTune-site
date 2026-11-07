@@ -74,8 +74,8 @@ To run the project locally for development or testing:
 . **Clone the repository:**
 [source,bash]
 ----
-git clone https://github.com/arturo254/opentune-web.git
-cd opentune-web
+git clone https://github.com/RajnishKMehta/OpenTune-Site.git
+cd OpenTune-Site
 ----
 
 . **Install dependencies:**
@@ -133,8 +133,7 @@ This project is licensed under the **GPL-3.0 License**. See the `LICENSE` file f
 == 💎 Credits
 
 * **Project Founder & Lead Designer:** https://github.com/Arturo254[Arturo Cervantes]
-* **Web Lead Developer:** https://github.com/RajnishKMehta[Rajnish Kumar]
-* **Contributors:** A huge thanks to all the community members helping build OpenTune!
+* **Lead Developer (site):** https://github.com/RajnishKMehta[Rajnish Kumar]
 
 ---
 _Built with passion for the Open Source Community._
