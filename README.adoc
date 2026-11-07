@@ -121,19 +121,14 @@ We love contributions! Whether you're fixing a bug, suggesting a feature, or hel
 4. **Push** to the branch (`git push origin feature/AmazingFeature`).
 5. Open a **Pull Request**.
 
-== 🔗 Related Projects
-
-* **OpenTune Android App:** image:https://img.shields.io/github/v/release/Arturo254/OpenTune?logo=android&label=AndroidApp&color=181717&labelColor=41444a[Arturo254/OpenTune, link=https://github.com/Arturo254/OpenTune/]
-* **Documentation:** image:https://img.shields.io/badge/Documentation-Read_Now-blue?logo=gitbook[Docs, link=https://opentune.gitbook.io/]
-
 == 📜 License
 
 This project is licensed under the **GPL-3.0 License**. See the `LICENSE` file for more information.
 
 == 💎 Credits
 
-* **Project Founder & Lead Designer:** https://github.com/Arturo254[Arturo Cervantes]
-* **Lead Developer (site):** https://github.com/RajnishKMehta[Rajnish Kumar]
+* **Designer:** https://github.com/Arturo254[Arturo Cervantes]
+* **Developer (site):** https://github.com/RajnishKMehta[Rajnish Kumar]
 
 ---
 _Built with passion for the Open Source Community._
