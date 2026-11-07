@@ -1,4 +1,4 @@
-= OpenTune Web
+= OpenTune Site
 :toc: macro
 :toc-title: Table of Contents
 :icons: font
